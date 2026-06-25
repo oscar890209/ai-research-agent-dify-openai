@@ -24,7 +24,13 @@ Generated Answer
 ### Workflow Architecture
 
 ![Workflow](workflow.png)
+### Dify Workflow
 
+The complete workflow can be imported directly into Dify using the provided DSL file.
+
+Workflow DSL:
+
+`AI Research Agent.yml`
 ### Dify Workflow
 
 ![Dify Workflow](dify-workflow.png)
