@@ -14,15 +14,20 @@ An AI Research Assistant built with Dify, OpenAI GPT-5 and Retrieval-Augmented G
 ## Workflow
 
 User Question
-        │
-        ▼
+↓
 Knowledge Retrieval
-        │
-        ▼
+↓
 OpenAI GPT-5
-        │
-        ▼
+↓
 Generated Answer
+
+### Workflow Architecture
+
+![Workflow](workflow.png)
+
+### Dify Workflow
+
+![Dify Workflow](dify-workflow.png)
 
 ## Tech Stack
 
@@ -38,6 +43,16 @@ Generated Answer
 - What skills are required?
 - Compare the job description with my research.
 - Explain the responsibilities.
+
+  ## Knowledge Base
+
+![Knowledge Base](knowledge-base.png)
+
+---
+
+## Example Result
+
+![Test Result](test-result.png)
 
 ## Project Structure
 
